@@ -25,6 +25,11 @@
   3. [ ] google
 
 ### Project details
-  1. Project name:
-  2. Project summary:
+  1. Project name: The 5 gems
+  2. Project summary: 
+     1. This game is about finding gems you fund each gem to unlock special powers     
+     2.there are 6 diffirent levels the 6 levels you travel the world  for the gems
+       1. Level 1 - you start in the cave of mysteries in the level you learn how to play
+       2. Level 2 - you begin your journey with th gem of ice you fight stone monsters to get to the gem of stone
+       
   3. Project coordinator:
